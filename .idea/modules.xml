@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Testes/Testes.iml" filepath="$PROJECT_DIR$/Testes/Testes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosRecursividade/exerciciosRecursividade.iml" filepath="$PROJECT_DIR$/exerciciosRecursividade/exerciciosRecursividade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/githubProjects.iml" filepath="$PROJECT_DIR$/githubProjects.iml" />
+    </modules>
+  </component>
+</project>
